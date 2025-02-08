@@ -1,1 +1,1 @@
-# odin-recipes
+Was pretty straight forward. Just made the text for now. The Odin project will add CSS in another module. Was fun to make though!
