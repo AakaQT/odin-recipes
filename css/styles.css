@@ -1,0 +1,18 @@
+.heading {
+    font-family: Helvetica, serif;
+    font-weight: 800;
+}
+
+.recipes, .list, .paragraph {
+    font-family: Helvetica, sans-serif;
+    font-size: 20px;
+}
+
+.link-font {
+    font-family: Helvetica, serif;
+}
+
+.img {
+    width: 500px;
+    height: auto;
+} 
