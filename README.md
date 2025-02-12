@@ -1,1 +1,3 @@
-Wrote the html for the different pages using what I learned on TOP. Newly added css file and styled the webpages
+UPDATES:
+
+Newly added css file and styled the webpages
