@@ -1,0 +1,21 @@
+body {
+    box-sizing: border-box;
+    font-family: Helvetica, sans-serif;
+}
+
+.paragraph, .list {
+    font-size: 20px;
+    text-align: center;
+}
+
+.heading {
+    text-align: center;
+}
+
+.img {
+    margin: 0 auto;
+}
+
+.list {
+    text-align: left;
+}
